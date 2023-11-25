@@ -1,12 +1,10 @@
 [
     {
-        "name": "Gain XP from discovering tiles",
-        "uniques": ["This Unit gains [1] XP <with [20]% chance> <upon discovering a [All] tile>"],
-        "unitTypes": ["Scout"]
-    },
-    {
-        "name": "Gain XP from discovering wonders",
-        "uniques": ["This Unit gains [10] XP <upon discovering a [Natural Wonder] tile>"],
+        "name": "Exploration",
+        "uniques": [
+            "This Unit gains [1] XP <with [20]% chance> <upon discovering a [All] tile>",
+            "This Unit gains [10] XP <upon discovering a [Natural Wonder] tile>"
+        ],
         "unitTypes": ["Scout"]
     }
 ]
